@@ -1,4 +1,3 @@
-Sure, here's a more formatted version:
 
 This project focuses on predicting medical insurance costs using a linear regression model. To get started, make sure you have Python 3.x and pip installed. Clone the repository, navigate to the project directory, and install dependencies using the following command:
 
